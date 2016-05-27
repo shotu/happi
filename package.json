@@ -9,6 +9,7 @@
   "author": "Manish Atri",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^13.4.1"
+    "hapi": "^13.4.1",
+    "inert": "^4.0.0"
   }
 }
